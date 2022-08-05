@@ -1,0 +1,1 @@
+# advanced-auto-clicker
